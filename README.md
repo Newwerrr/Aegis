@@ -1,4 +1,4 @@
-````md
+
 # 🦋 Aegis
 
 *A tiny Unity runtime bridge for mods and rendering things safely :3*
@@ -213,6 +213,3 @@ be happy
 ---
 
 Made with caffeine and confusion 🦋
-
-```
-```
